@@ -1,3 +1,8 @@
 Isto é a primeira aula
 Segunda alteração.
+<<<<<<< HEAD
 linha adicionada no ramo master.
+=======
+adicionando a terceira linha.
+lina adicionado no ramo secundario
+>>>>>>> secundario
