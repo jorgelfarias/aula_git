@@ -1,2 +1,3 @@
 Isto é a primeira aula
 Segunda alteração.
+linha adicionada no ramo master.
